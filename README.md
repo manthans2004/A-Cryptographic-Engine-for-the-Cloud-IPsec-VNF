@@ -176,10 +176,3 @@ Unauthorized commercial usage is strictly prohibited.
 *The Oxford College of Engineering, VTU, Bangalore, India*
 
 All rights reserved.
-
-```
-
----
-
-Would you like me to also include a **sample `environment.sh` file** (ready to run two peers like “Site-A” and “Site-B” for your demo)? That’ll let you launch your IPsec tunnel in seconds.
-```
